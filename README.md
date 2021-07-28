@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-    I'm <b>Hyein</b>, a junior AOS developer<br/>
+    I'm <b>Hyein</b>, a junior software developer<br/>
    I'm currently studying Android, Server and CS
 </p>
 
