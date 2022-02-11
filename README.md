@@ -7,7 +7,7 @@
 
 <h3 align="center">💡 Education 💡</h3>
 <p align="center">
- 🏫<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th (2021.01 ~)</a><br>
+ 🏫<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> Samsung SW Academy For Youth 5th (2021.01 ~ 2021.12)</a><br>
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
